@@ -53,7 +53,7 @@ h2{
 h5 {
     color:blue;
     text-align: center;
-    font: 50px;
+    font-size: 3rem;
 }
 .contenedor {
     display: flex;
@@ -93,8 +93,8 @@ h3 {
     padding: 8% auto;
 }
 .img-todo {
-    width: 125px;
-    height: 125px;
+    width: 200px;
+    height: 200px;
 }
 .titulo-de-skills {
     color: blue;
@@ -127,7 +127,7 @@ h3 {
 .card-text {
     color: white;
     text-align: left;
-    font-size: 0.90em;
+    font-size: 2rem;
 }
 .lista {
     color: white;
